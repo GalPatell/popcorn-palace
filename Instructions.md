@@ -2,7 +2,7 @@
 # Popcorn Palace Project Setup Instructions
 
 ## Prerequisites
-1. **Java Development Kit (JDK)**: Ensure JDK 17 or later is installed.
+1. **Java Development Kit (JDK)**: Ensure JDK 21 or later is installed.
 2. **Maven**: Ensure Apache Maven is installed and added to your system's PATH.
 3. **PostgreSQL**: Install PostgreSQL and ensure it is running.
 4. **Docker**: Install Docker if you plan to use the provided `docker-compose.yml` file for database setup.
